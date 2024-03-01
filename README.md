@@ -18,10 +18,10 @@ O App mostra a Home de um aplicativo bancário, com diversas seções de produto
 
 As técnicas e tecnologias utilizadas pra isso são:
 
-- `Apiary`: Ferramenta utilizada para Mocking de API
-- `Modelagem de payload`: Pensamento crítico sobre componentização, e reuso de seções.
-- `Componentização de Views`: Criação de classes que nos possibilitará a criação das seções baseado na resposta do backend
-- `Configuração das Views`: Configuração das Vies, para que desenhe os elementos que o backend nos enviar
+- `Apiary`: Ferramenta utilizada para Mocking de API;
+- `Modelagem de payload`: Pensamento crítico sobre componentização, e reuso de seções;
+- `Componentização de Views`: Criação de classes que nos possibilitará a criação das seções baseado na resposta do backend;
+- `Configuração das Views`: Configuração das Views, para que desenhe os elementos que o back-end nos enviar.
 
 
 ## 📁 Acesso ao projeto
