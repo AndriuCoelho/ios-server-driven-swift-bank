@@ -2,7 +2,7 @@
 //  DictionaryDecodable.swift
 //  SwiftBank
 //
-//  Created by Ândriu F Coelho on 17/02/24.
+//  Created by Alura on 17/02/24.
 //
 
 import Foundation
